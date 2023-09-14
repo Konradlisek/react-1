@@ -1,6 +1,7 @@
 .heading h1 {
   font-size: 36px;
   margin-top: 15vh;
+  transition: color 0.3s;
 }
 .button-color {
   display: flex;
