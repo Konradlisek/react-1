@@ -1,0 +1,35 @@
+.heading h1 {
+  font-size: 36px;
+  margin-top: 15vh;
+}
+.button-color {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 200px;
+}
+.button-color button {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 15px 0;
+  height: 55px;
+  width: 170px;
+  background-color: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.4s;
+}
+
+.button-color button:hover {
+  background-color: #ffffff8a;
+  color: #ede8e8d8;
+}
+
+.green {
+  color: greenyellow;
+}
+.red {
+  color: tomato;
+}
+.blue {
+  color: royalblue;
+}
